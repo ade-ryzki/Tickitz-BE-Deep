@@ -1,4 +1,3 @@
-// controller = tempat dimana kita menghubungkan antara client dan database
 const Auth = require('../model/Auth')
 
 module.exports = {
