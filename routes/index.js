@@ -5,6 +5,7 @@ const bookingRoute = require('./bookingRoute')
 const usersRoute = require('./usersRoute')
 const authRoute = require('./authRoute')
 
+
 app.use('/movies', moviesRoute)
 app.use('/booking', bookingRoute)
 app.use('/users', usersRoute)

@@ -7,7 +7,4 @@ router.post('/', bookingController.addNewBooking)
 router.patch('/:id', bookingController.updateBooking)
 router.delete('/:id', bookingController.deleteBooking)
 
-
-
-
 module.exports = router
