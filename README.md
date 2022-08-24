@@ -29,7 +29,7 @@ some technology used in this project.
 - [Express](https://expressjs.com)
 - [JWT](https://jwt.io)
 - [MySQL](https://mysql.com)
-
+- [Postman] ( https://documenter.getpostman.com/view/21565262/UzBsHPit )
 
 <!-- GETTING STARTED -->
 
