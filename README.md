@@ -29,7 +29,6 @@ some technology used in this project.
 - [Express](https://expressjs.com)
 - [JWT](https://jwt.io)
 - [MySQL](https://mysql.com)
-- [Sendinblue (email marketing)](https://www.sendinblue.com)
 
 
 <!-- GETTING STARTED -->
