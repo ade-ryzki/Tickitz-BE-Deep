@@ -47,7 +47,7 @@ Before installing, you must be install [nodejs](https://nodejs.org) [npm](https:
 1. Clone this repo
 
 ```sh
-git clone https://github.com/ade-ryzki/Tickitz-BE-Deep.git
+https://github.com/ade-ryzki/Tickitz-BE-Deep
 ```
 
 2. Install npm package
